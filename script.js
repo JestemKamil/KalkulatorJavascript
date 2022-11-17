@@ -1,8 +1,5 @@
-let liczba1 = 0
-let liczba2 = 0
-let dzialanie = "nic"
 let wyswietlacz = document.getElementById("wyswietlacz")
-let wynik = 0
+let liczba1, liczba2, wynik, dzialanie = 0
 
 
 function klikanie(kliknieto){
