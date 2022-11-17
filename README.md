@@ -1,4 +1,4 @@
 # KalkulatorJavascript
-Kalkulator zrobiony w dziwny sposób za pomocą javascripta
+Kalkulator zrobiony za pomocą javascripta
 
-Nie ma sensu opisywać nic bo to kawałek kodu i tyle
+Można go przetestować bez pobierania tutaj: https://jestemkamil.github.io/KalkulatorJavascript/
